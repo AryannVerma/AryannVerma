@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Aryann Verma</h1>
-<h3 align="center">Still figuring out...</h3>
+<h3 align="center">Still figuring out life...</h3>
 
 - 📫 How to reach me **aryannverma1@gmail.com**
 
